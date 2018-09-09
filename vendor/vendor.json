@@ -1,0 +1,35 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "b5+p8/VolJPkZ7NPaSG6hu7Xc4M=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "dc2ec5c7ca4d9aae063b79b9f581dd3ea6afd2b2",
+			"revisionTime": "2018-06-07T15:06:10Z"
+		},
+		{
+			"checksumSHA1": "WHAdzAZYBA6GCyPTIXr46P77uis=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "901648c87902174f774fac311d7f176f8647bdaa",
+			"revisionTime": "2018-02-20T18:43:36Z"
+		},
+		{
+			"checksumSHA1": "1ac8ALeibS35mhvakk6IFTDQ95U=",
+			"path": "github.com/gammazero/deque",
+			"revision": "b106e3c6d0a1c0aa9b236c635c0d799d4467ee63",
+			"revisionTime": "2018-05-18T20:02:14Z"
+		},
+		{
+			"checksumSHA1": "soOTjM3Ae7UIZQ/CdmsZpLvLvOk=",
+			"path": "github.com/gammazero/workerpool",
+			"revision": "d9f490b52b8724669b5cfb1933cf1461e2a03b41",
+			"revisionTime": "2018-06-21T15:05:20Z"
+		},
+		{
+			"path": "golang.org/x/net/html",
+			"revision": ""
+		}
+	],
+	"rootPath": "EtherScanConnector"
+}
